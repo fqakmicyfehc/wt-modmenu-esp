@@ -1,0 +1,11 @@
+# wt-modmenu-esp runtime dependencies
+pywin32>=306
+pymem>=1.9.0
+pefile>=2023.2.7
+numpy>=1.26.0
+pyimgui>=2.0.0
+glfw>=2.6.4
+PyGLM>=2.7.1
+requests>=2.31.0
+colorama>=0.4.6
+pytest>=8.0.0
