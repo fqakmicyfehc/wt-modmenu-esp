@@ -1,0 +1,7 @@
+{
+  "world_root": 0,
+  "local_player": 0,
+  "entity_list": 0,
+  "view_matrix": 0,
+  "_comment": "run scripts/dump_offsets.py after each War Thunder patch"
+}
