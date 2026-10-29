@@ -1,0 +1,21 @@
+{
+  "overlay": {
+    "width": 1920,
+    "height": 1080,
+    "toggle_key": "F8",
+    "menu_key": "INSERT"
+  },
+  "esp": {
+    "max_dist": 1500,
+    "box_thickness": 2,
+    "colors": {
+      "enemy": "#ff2828",
+      "friendly": "#28c8ff"
+    }
+  },
+  "aimbot": {
+    "smooth": 6.0,
+    "fov": 220,
+    "bone": "head"
+  }
+}
