@@ -1,0 +1,1 @@
+"""Bundled ModMenu extensions (aimbot, esp, wallhack, ...)."""
